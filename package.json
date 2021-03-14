@@ -1,0 +1,17 @@
+{
+  "name": "tgbk",
+  "version": "0.0.1",
+  "description": "偷国偷取中国传统文化实录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vdev": "vuepress dev docs",
+    "vbuild": "vuepress build docs"
+  },
+  "author": "chinese",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-sidebar-atuo": "^1.0.4"
+  }
+}
